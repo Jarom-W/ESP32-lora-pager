@@ -11,6 +11,6 @@ pager.kicad_pro -> KiCad Project file
 
 pager.kicad_sch -> KiCad PCB schematic
 
-pager_rev1_gerbers.zip -> Gerbers for ordering PCB from a factory
+gerbers.zip -> Gerbers for ordering PCB from a fab
 
 print.pdf -> Printed render of the final PCB.
