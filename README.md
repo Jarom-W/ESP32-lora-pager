@@ -1,5 +1,5 @@
 # ESP32-lora-pager
-Source code and supporting files for the ESP32 LoRa powered paging device
+Source code and supporting files for the ESP32 LoRa powered paging device. Uses standard LoRa frequency of 915MHz to send short range text messages.
 
 LoRa_Enclosure_Design_Pack_Prototype -> The 3D printed prototype case and all related files.
 
@@ -14,3 +14,5 @@ pager.kicad_sch -> KiCad PCB schematic
 gerbers.zip -> Gerbers for ordering PCB from a fab
 
 print.pdf -> Printed render of the final PCB.
+
+Pager_Enclosure_Final.3mf -> Final design of the device enclosure
